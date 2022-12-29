@@ -95,3 +95,21 @@ width: 50%;
 .product-detail .product-detail-container .product-detail-body .product-about ul{
     padding-left: 40px;
 }
+
+.product-detail .product-detail-container .product-detail-body .buttons .buy-now:hover{
+    width: 50%;
+    border: 2px solid #ffa41c;
+    background-color: transparent;
+    padding: 8px;
+    color: #ffa41c;
+    border-radius: 10px;
+}
+
+.product-detail .product-detail-container .product-detail-body .buttons .add-to-cart:hover{
+    width: 50%;
+    border: none;
+    background-color: #ffa41c;
+    padding: 8px;
+    color: white;
+    border-radius: 10px;
+}
